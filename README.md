@@ -1,2 +1,2 @@
 # VSCode
-<html>&#8984;</html>
+`<html>&#8984;</html>`
