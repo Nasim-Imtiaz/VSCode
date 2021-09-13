@@ -8,4 +8,4 @@
 
 
 ### References
-*[MAC icons in Unicode](https://apple.stackexchange.com/questions/55727/where-can-i-find-the-unicode-symbols-for-mac-functional-keys-command-shift-e)
+* [MAC icons in Unicode](https://apple.stackexchange.com/questions/55727/where-can-i-find-the-unicode-symbols-for-mac-functional-keys-command-shift-e)
