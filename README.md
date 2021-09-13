@@ -4,6 +4,7 @@
 * <code>&#8984; + T</code> Prompt for entering symbol. We use open file from here also. 
 * <code>&#8963; + &#8679; + T</code> Openning previously closed tabs.
 * <code>&#8984; + W</code> Closing a tabs. 
+* * <code>&#8984; + tab</code> Changing tabs between opened tabs. 
 #### Searching
 * <code>&#8984; + F</code> Find something on that file. 
 * <code>&#8984; + &#8679; +F</code> Find something thorugh all files. 
