@@ -8,6 +8,8 @@
 #### Searching
 * <code>&#8984; + F</code> Find something on that file. 
 * <code>&#8984; + &#8679; + F</code> Find something thorugh all files. 
+#### Line
+* <code>&#8997; + &#8593;</code> Move Line Up.
 #### Terminal
 * <code>&#8679; + `</code> For openning terminal. 
 
