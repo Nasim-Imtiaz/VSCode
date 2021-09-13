@@ -1,2 +1,2 @@
-# VSCode Shorcuts For MacOS <html>&#63743;</html>
+# VSCode Shorcuts For MacOS &#63743;
 <html>&#8984;</html> + T
