@@ -7,7 +7,7 @@
 * <code>&#8984; + tab</code> Changing tabs between opened tabs. 
 #### Searching
 * <code>&#8984; + F</code> Find something on that file. 
-* <code>&#8984; + &#8679; +F</code> Find something thorugh all files. 
+* <code>&#8984; + &#8679; + F</code> Find something thorugh all files. 
 #### Terminal
 * <code>&#8679; + `</code> For openning terminal. 
 
